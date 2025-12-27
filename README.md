@@ -1,4 +1,4 @@
-# Mortality-rate---Analysis
+# Mortality-rate-Analysis
 # Project Overview
 
 This project analyzes Infant Mortality Rate (IMR) and Maternal Mortality Rate (MMR) across Indian states and regions over multiple years. The goal is to uncover temporal trends, regional disparities, and state-level variations in maternal and child health outcomes. By applying exploratory data analysis and visualization techniques, the project provides data-driven insights relevant to public health evaluation and policy planning.
@@ -141,9 +141,11 @@ Perform district-level analysis for finer insights
 
 Build interactive dashboards for stakeholder use
 
-## Author
-saishree|Data Analyst|SQL|Python|Power BI
-LinkedIN:
+# Author
+
+saishree
+
+Data Analyst
 
 
 
